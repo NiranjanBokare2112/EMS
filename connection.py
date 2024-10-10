@@ -7,7 +7,7 @@ def create_connection():
             host='localhost',        # Replace with your database host
             database='emp_mng',      # Replace with your actual database name
             user='root',             # Replace with your MySQL username
-            password='Manisha@21'    # Replace with your MySQL password
+            password='nb@21'    # Replace with your MySQL password
         )
         if connection.is_connected():
             print()
